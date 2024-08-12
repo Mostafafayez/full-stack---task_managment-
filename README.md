@@ -15,7 +15,7 @@ Clone the repository to your local machine:
 
 git clone https://github.com/mostafafayez/tasks_managment.git
 cd tasks_managment
-Install PHP Dependencies
+Install PHP Dependencies - v8
 
 Install PHP dependencies using Composer:
 
